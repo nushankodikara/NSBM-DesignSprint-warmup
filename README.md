@@ -12,6 +12,8 @@ Participants will be presented with real-world scenarios, and your task is to de
 - **Team Size**: Each team can have a **maximum of 4 members**.
 - **Submission**: Once completed, your design project should be submitted through the following Google Form: **[- Link will be open after 4th of October 8PM -]**.
 - **Evaluation**: Designs will be evaluated based on usability, aesthetics, creativity, content structure, and more.
+- **Target Platform**: Web interfaces should be designed for desktop and mobile devices.
+- **Deadline**: The submission deadline is **October 4th at 11:59 PM**
 
 ### **Why Participate?**
 
